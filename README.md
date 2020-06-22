@@ -20,7 +20,7 @@ The project was developed using the following technologies:
 - [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://github.com/axios/axios)
 
-## ⚡️ Como baixar o projeto
+## ⚡️ How to download the project
 
 ```bash
 
